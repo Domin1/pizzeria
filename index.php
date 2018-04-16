@@ -34,5 +34,6 @@
 
 //Prueba para la rama funcion1
 //Texto desde funcion1 para provocar un error
+//Prueba para la rama funcion2
 
 
